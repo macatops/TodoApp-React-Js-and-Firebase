@@ -1,0 +1,35 @@
+body{
+  background-color: pink;
+  text-align: center;
+}
+
+.container{
+  background-color: white;
+  border-radius: 5px;
+  width: 40%;
+  padding: 2%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+
+h1{
+  font-size: 3rem;
+  color: palevioletred;
+}
+
+
+input{
+  border-radius: 5px;
+
+}
+
+button{
+  border-radius: 5px;
+  border: none;
+  background-color:rgb(247, 243, 172);
+}
+
+button:hover{
+  background-color:rgb(172, 247, 237);
+
+}
